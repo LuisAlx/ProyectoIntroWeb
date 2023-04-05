@@ -1,0 +1,51 @@
+header{
+    background-color: rgb(252, 255, 255); 
+    display: grid;
+    grid-template-columns: 30% 70%;
+    grid-template-rows: 100%;
+    height: 110px;
+}
+
+.LigasInicio{
+    padding: 20px;
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main{
+    background-color: #edf2f4;
+    display: grid;
+    grid-template-columns: 30% 70%;
+    grid-template-rows: 100%;
+}
+
+.Cuerpo{
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 20% 15% 10% 40%;
+}
+.Personal{
+    bor
+}
+.Expertise{
+    margin-bottom: 10px;
+}
+footer{
+    background-color: #edf2f4;
+    display: grid;
+    grid-template-columns: 30% 70%;
+    grid-template-rows: 100%;
+}
+.BotonesFinales{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Lista{
+    display: grid;
+    grid-template-columns: 202px 202px 202px;
+    grid-template-rows: 65px 65px 65px;
+    padding-top: 5px;
+    margin-top: 5px;
+}
