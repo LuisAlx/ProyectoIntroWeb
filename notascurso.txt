@@ -1,0 +1,14 @@
+Lo que más me gustó del curso fue el compromiso de  los senseis. Considero que han sido muy buenos. Sin embargo, hubieron ocasiones
+en las que sentí un poco rápido el tema, y eso repercutió en que me perdiera en la clase, principalmente cuando estabamos ejecutando código en 
+visual studio code, por lo que tuve que repetir las clases respectivas en su totalidad gracias a los videos que quedaron grabados.
+
+En cuanto a los temas, lo que más se me complicó fue entender el acomodamiento de los elementos de la página web.
+Una vez entendido el acomodamiento, que sigue el principio de "modelo de caja" o de muñecas rusas, lo demás se me comenzó a facilitar.
+Por lo tanto, lo más dificil fue lo relacionado a las secciones, identificadores, clases, etc. y cuándo usarlas (i.e., cuándo usar divclass, div id, section, main, nav, etc.)
+Lo que se me facilitó fue ejecutar herramienats de estilo en CSS como padding, margin, border, background color, etc.
+Debo confesar que participé muy poco en las clases, principalmente por temor a retrasarlas pues entiendo que somos un grupo grande y solamente tenemos 6 horas de clase
+a la semana. 
+
+Como opinión personal, talvez sería bueno dedicar una clase extra cada una o dos semanas, aunque dure menos de 3 horas, con el objetivo de que podamos
+practicar de manera grupal para hacer ejercicios/tareas (i.e., una especie de "chat club"). Incluso, podría ser entre compañeros y/o sin la participación de los
+dos senseis. 
